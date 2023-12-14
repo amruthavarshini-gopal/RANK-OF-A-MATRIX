@@ -18,7 +18,7 @@ Import the numpy module to use the built-in functions for calculation
 
 ### Step 2: 
 
-Prepare the lists from each linear equations and assign in np.array()
+Prepare the lists from the given two dimension matrix and assign in np.array()
 
 ### Step 3:
 
